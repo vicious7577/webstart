@@ -77,3 +77,27 @@ img {
     width: 90px;
   }
 }
+
+.group3-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.group3__listicon-block {
+  display: flex;
+  align-items: center;
+}
+
+.group3__icon-wrap {
+  border: 2px solid #ffd200;
+  border-radius: 50%;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+
+.group3 img {
+  width: 100%;
+}
